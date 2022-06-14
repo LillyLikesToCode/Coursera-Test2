@@ -27,4 +27,4 @@
     // xxxx.xxxx = helloSpeaker;
 
   }
-)(window);
+)(window)();
