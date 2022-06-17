@@ -27,4 +27,4 @@
   // 'byeSpeaker' on the global scope as well.
   // xxxx.xxxx = byeSpeaker;
 
-})(window);
+})(window)();
